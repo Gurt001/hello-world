@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-I AM JOHN OR JOE
-=======
-I AM BOB
->>>>>>> parent of 74fcbd1... Joe takes over
+I AM NO ONE
 I AM COOLER THAN GARCE
